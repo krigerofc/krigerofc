@@ -8,7 +8,8 @@
 [![oii](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCWqgfyHIHzW98F-ezRBt8lQ)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krigerofc&show_icons=true&theme=dracula)
-![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4857997)
+
+![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/dev.kriger.png)
 
 
 
