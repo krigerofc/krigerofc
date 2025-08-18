@@ -1,4 +1,4 @@
-# Oi, eu sou Kriger
+# Oi, eu sou Pedro(kriger)
 
 
 [![oii](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/diabonaterrakk/)
