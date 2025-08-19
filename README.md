@@ -2,7 +2,7 @@
 
 Sou desenvolvedor Full Stack e estudante de **Cybersecurity**. Atualmente trabalho com diversas linguagens e ferramentas que me permitem construir desde sistemas, scripts e aplicações web robustas.
 
-## 🚀 Tecnologias
+## 🚀 Linguagens
 ![C#](https://img.shields.io/badge/C%23-6A0DAD?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
