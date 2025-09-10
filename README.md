@@ -33,6 +33,8 @@ Sou desenvolvedor Full Stack e estudante de **Cybersecurity**. Atualmente trabal
 ## 📚 Estudos extras e formações
 
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-EC1C24?style=for-the-badge&logo=tryhackme&logoColor=white)
+![Cisco Cybersecurity](https://img.shields.io/badge/Cisco%20Cybersecurity-1A1F71?style=for-the-badge&logo=cisco&logoColor=white)
+
 ---
 
 
