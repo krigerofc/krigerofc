@@ -44,3 +44,4 @@ Sou desenvolvedor Full Stack e estudante de **Cybersecurity**. Atualmente trabal
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=krigerofc&show_icons=true&theme=dracula)
 
 ![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/dev.kriger.png)
+
