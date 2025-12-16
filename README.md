@@ -22,9 +22,12 @@ I’m a Full Stack Developer and a Cybersecurity student. I currently work with 
 ## ⚙️ Technologies
 ![React](https://img.shields.io/badge/React-6A0DAD?style=for-the-badge&logo=react&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-6A0DAD?style=for-the-badge&logo=angular&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-6A0DAD?style=for-the-badge&logo=express&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-6A0DAD?style=for-the-badge&logo=vue.js&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-6A0DAD?style=for-the-badge&logo=next.js&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-6A0DAD?style=for-the-badge&logo=django&logoColor=white)
 
+![Jest](https://img.shields.io/badge/Jest-6A0DAD?style=for-the-badge&logo=jest&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-6A0DAD?style=for-the-badge&logo=redis&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST%20API-6A0DAD?style=for-the-badge&logo=json&logoColor=white)
 
