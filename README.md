@@ -12,7 +12,6 @@ I’m a Full Stack Developer and a Cybersecurity student. I currently work with 
 ![JavaScript](https://img.shields.io/badge/JavaScript-6A0DAD?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-6A0DAD?style=for-the-badge&logo=typescript&logoColor=white)
 
-![C#](https://img.shields.io/badge/C%23-6A0DAD?style=for-the-badge&logo=c-sharp&logoColor=white)
 
 ![Python](https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=python&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-6A0DAD?style=for-the-badge&logo=lua&logoColor=white)
