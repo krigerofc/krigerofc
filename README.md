@@ -2,20 +2,12 @@
 
 I’m a Full Stack Developer and a Cybersecurity student. I currently work with a wide range of programming languages and tools that allow me to build everything from systems and scripts to robust web applications.
 
-
-![GitHub Stats](https://github-readme-stats-git-masterorg.vercel.app/api?username=krigerofc&show_icons=true&theme=dracula)
-
 ---
 
 ## 🚀 Skills | Code
 ![Node.js](https://img.shields.io/badge/Node.js-6A0DAD?style=for-the-badge&logo=node.js&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-6A0DAD?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-6A0DAD?style=for-the-badge&logo=typescript&logoColor=white)
-
-
-![Python](https://img.shields.io/badge/Python-6A0DAD?style=for-the-badge&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-6A0DAD?style=for-the-badge&logo=lua&logoColor=white)
-
 ---
 
 ## ⚙️ Technologies
